@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon document PDF</title>
+</head>
+<body>
+  <h1>📄 Mon document PDF</h1>
+  <p>
+    <a href="document.pdf" target="_blank">Ouvrir le PDF</a>
+  </p>
+
+  <!-- Option : affichage direct -->
+  <iframe src="document.pdf" width="100%" height="600px"></iframe>
+</body>
+</html>
